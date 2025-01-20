@@ -78,4 +78,4 @@ O programa deve ficar mostrando o menu até que o usuário escolha a opção 'Sa
 
 Assim que o programa começar a rodar, ele deve gerar a lista de filmes fictícios.
 
-### Exemplo de 
+
