@@ -23,7 +23,7 @@ Cada filme deve ser um dicionário composto dos seguintes dados:
   'id': 1,
   'nome': 'exemplo',
   'genero': 'ação',
-  'classificacao': 4.5
+  'classificacao': 4
 }
 ```
 **Os filmes devem ser armazenados em uma lista (lista de dicionários).**
@@ -50,6 +50,8 @@ Na adição alguns pontos devem ser observados:
 ### Recomendação de filmes
 
 O sistema deve permitir que o usuário informe um gênero e, com base nele, recomendar 3 filmes para o usuário assistir.
+
+OBS: se houver menos de 3, mostrar todos os filmes do gênero.
 
 Se não houver filmes disponíveis do gênero informado, o sistema deve exibir uma mensagem como: "Não há filmes desse gênero disponíveis no momento."
 
