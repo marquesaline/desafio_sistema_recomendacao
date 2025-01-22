@@ -44,7 +44,7 @@ Além dos filmes que são gerados automaticamente, o sistema deve permitir que o
 Na adição alguns pontos devem ser observados:
 
 1) O id do filme deve ser gerado automaticamente no momento da adição;
-2) A classificação do filme deve ficar entre 1 e 5;
+2) A classificação do filme deve ser um número inteiro entre 1 e 5;
 3) Os filmes adicionados pelo usuário devem ser adicionados na mesma lista de filmes geradas no tópico anterior;
 
 ### Recomendação de filmes
